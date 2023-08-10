@@ -6,7 +6,7 @@
 
 [![quas-modo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quas-modo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quas-modo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quas-modo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **quas-modo/quas-modo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
