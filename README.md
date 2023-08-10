@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying at NJUSE.
+- 🌱 I’m currently learning compiler and os.
+- ⚡ My blog: quas-modo.github.io
+
 <!--
 **quas-modo/quas-modo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
