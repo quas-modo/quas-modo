@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying at NJUSE.
-- 🌱 I’m currently working on few-shot open-set recognition.
+- 🌱 I’m currently working on embodied ai.
 - ⚡ My blog: quas-modo.github.io
 
 [![quas-modo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quas-modo)](https://github.com/anuraghazra/github-readme-stats)
