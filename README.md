@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at NJUSE.
+- 🔭 I’m currently studying at FDU-CSAI.
 - 🌱 I’m currently working on embodied ai.
 - ⚡ My blog: quas-modo.github.io
 
